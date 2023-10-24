@@ -8,4 +8,5 @@ The goal of this task is to retrieve all images which show direct evidence of a 
 
 ## Dataset
 The images and corresponding metadata for this task have been extracted from YFCC100M-Dataset. These images are shared under Creative Commons licenses that allow their redistribution. All images are sampled in a way such that there is only one image per user in the dataset. Images will be labeled with the two classes (1) Showing evidence of a flooding event and (2) Showing no evidence of a flooding event. In addition to the images, we will also supply participants with additional metadata information. We will release a development set of 5280 images. Precomputed features will be provided along with the dataset to help teams from different communities to participate to the task.
+
 Link to the dataset: https://www.kaggle.com/competitions/2023falldpl30xm/data
